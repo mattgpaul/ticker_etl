@@ -1,0 +1,1 @@
+# Pipeline file for extracting and ingesting ticker price data
